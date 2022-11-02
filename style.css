@@ -1,0 +1,17 @@
+body {
+  display: block;
+  margin: auto 0;
+  background-color: aliceblue;
+}
+#form {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 200px;
+}
+input,
+button {
+  font-size: large;
+}
